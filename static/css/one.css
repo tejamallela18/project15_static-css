@@ -1,0 +1,14 @@
+body
+{
+    background: linear-gradient( orange,black,green);
+}
+h1
+{
+    background-color: gold;
+    padding: 10px;
+}
+img
+{
+    height: 500px;
+    width: 700px;
+}
